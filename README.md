@@ -1,4 +1,3 @@
-# 💫 About Me:
 Welcome to my GitHub profile! Here's a bit about me:<br><br>🌱 I am currently honing my  full stack web development skills along with learning DSA.<br>🔭 I have a keen interest in topics such as 3D web development and machine learning.<br>👀 Feel free to reach out to me at: adityaxraj72004@gmail.com.<br>
 
 # 💻 Tech Stack:
